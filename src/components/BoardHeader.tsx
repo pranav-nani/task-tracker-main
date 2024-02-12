@@ -47,9 +47,6 @@ export function BoardHeader({
     <>
       <Box px={8} py={4} width="100%">
         <Flex>
-          <Text color="white" fontSize="2xl" fon tWeight="bold">
-            {title}
-          </Text>
           <Spacer />
           {button}
         </Flex>
