@@ -5,7 +5,12 @@
 
 ## Running the React Task Tracker Application
 
-This project is a simple task tracker application built with React. Here's how to get it up and running:
+This project is a simple task tracker application built with React.
+
+![image](https://github.com/pranav-nani/task-tracker-main/assets/88759848/849ce384-0ecb-4aeb-b3eb-11c540264b7e)
+
+Here's how to get it up and running:
+
 
 **Prerequisites:**
 
